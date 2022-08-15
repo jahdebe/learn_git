@@ -1,4 +1,22 @@
 ##README##
 #PROJECT learn_git
 ###
-TEST
+Git - VCS (Version Control System)
+GitHub - Hosts Git repos (repositories) in the cloud
+
+GUI vs CLI
+
+Install git
+  git --version
+  GitKracken
+
+configure git
+  git config
+
+committing workflow
+  git status
+  git init
+    starts got project (.git)
+  git add
+  git commit | git commit -m "message"
+  git log
