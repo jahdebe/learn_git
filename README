@@ -1,11 +1,14 @@
 ##README##
 #PROJECT learn_git
 ###
+
+## about 
 Git - VCS (Version Control System)
 GitHub - Hosts Git repos (repositories) in the cloud
 
 GUI vs CLI
 
+## install/setup
 Install git
   git --version
   GitKracken
@@ -13,6 +16,7 @@ Install git
 configure git
   git config
 
+## commit workflow
 committing workflow
   git status
   git init
